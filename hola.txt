@@ -1,3 +1,10 @@
-
 Hola Mundo!, Hola planeta! 
->>>>>>> 3787171 (forzando conflito)
+Hola Mundo..
+linea manuela
+agregando data
+dsgrsgsed
+Hola Mundo!
+Hola soy lucas
+Hola Mundo, soy Fran!
+hola, soy mateo!
+hola, soy abril!
