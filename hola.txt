@@ -6,8 +6,11 @@ Hola Mundo!, Hola planeta!
 Hola Mundo..
 linea manuela
 agregando data
+<<<<<<< HEAD
 dsgrsgsed
 Hola Mundo!
 Hola soy lucas
+=======
+>>>>>>> 75ad51d (resolvi conflictos con Manu y un anonimo)
 Hola Mundo, soy Fran!
 >>>>>>> d331c51 (resolvi conflictos)
